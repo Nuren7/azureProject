@@ -1,0 +1,5 @@
+bin/
+obj/
+.vs/
+.azurite/
+local-database.json
