@@ -3,3 +3,7 @@ obj/
 .vs/
 .azurite/
 local-database.json
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/crash.log
